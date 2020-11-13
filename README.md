@@ -12,7 +12,7 @@
 
 ### Options:
 - Keep **Neon lights** (not dimmable, costing 0.432€/h) or substitute them with **LED lights** (dimmable, costing max 0.15€/h, cost of investment: 4k€)
-- Keep **manual curtains* (schedulable weekly) or substitute them with **motorized curtains**
+- Keep **manual curtains** (schedulable weekly) or substitute them with **motorized curtains**
 
 ### Available data:
 - Historical data of light sensors and movement sensors in the four Lab areas
